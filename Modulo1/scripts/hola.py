@@ -3,9 +3,10 @@
 # y no se ejecutan
 
 
-# control + s para guardar
+# control + s para guardar el archivo
 print("Hola Mundo")
 
+#Para ejecutar necesito llamar a pyton y que encuentre el archivo
 
 # comandos de terminal
 # ------------------------------
